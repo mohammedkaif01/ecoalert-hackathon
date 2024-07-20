@@ -1,6 +1,6 @@
 # EcoAlert
-This an mobile application project for hackathon 2024 (Frost hacks) by MLH 
-<b>Project Title</b>: EcoAlert.
+This an mobile application project for hackathon 2024 (Frost hacks) by MLH <br>
+<b>Project Title</b>: EcoAlert. <br>
 <b>Description</b>:<p>
 <b>Reporting</b>: Quickly submit details of environmental problems with photos and descriptions. <br>
 <b>Geolocation</b>: Automatically identifies and connects you to the nearest environmental response centers.<br>
